@@ -2,6 +2,10 @@
 こんにちは。ものづくりが好きで色々やってるKHashimoto3です。  
 最近ではWEBアプリ開発を中心にやっています。  
 よければ見ていってください👀
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHashimoto3&layout=compact)]
+(https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **KHashimoto3/KHashimoto3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

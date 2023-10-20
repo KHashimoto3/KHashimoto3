@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### ようこそ
+こんにちは。ものづくりが好きで色々やってるKHashimoto3です。  
+最近ではWEBアプリ開発を中心にやっています。  
+よければ見ていってください👀
 <!--
 **KHashimoto3/KHashimoto3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

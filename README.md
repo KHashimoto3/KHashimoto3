@@ -3,6 +3,7 @@
 最近ではWEBアプリ開発を中心にやっています。  
 よければ見ていってください👀
 
+### 数字で見るKHashimoto3
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHashimoto3&layout=compact)]
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHashimoto3)]
 
